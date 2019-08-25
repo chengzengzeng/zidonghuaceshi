@@ -1,0 +1,6 @@
+2019-08-08 12:56:24,467 - BrowserEngine - INFO - You had select Chrome browser. 
+2019-08-08 12:56:24,468 - BrowserEngine - INFO - The test server url is http://172.16.79.4/zzxypmf/ 
+2019-08-08 12:56:24,468 - BrowserEngine - INFO - The test username is "lidl" 
+2019-08-08 12:56:36,710 - BrowserEngine - INFO - Starting Chorme browser 
+2019-08-08 12:56:38,819 - BrowserEngine - INFO - Open url http://172.16.79.4/zzxypmf/ 
+2019-08-08 12:56:38,829 - BrowserEngine - INFO - Set implicitly wait 10 seconds 

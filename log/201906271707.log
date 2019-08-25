@@ -1,0 +1,12 @@
+2019-06-27 17:07:27,433 - BrowserEngine - INFO - You had select Chrome browser. 
+2019-06-27 17:07:27,445 - BrowserEngine - INFO - The test server url is https://pmtest.chinacsci.com/zzxypmf/ 
+2019-06-27 17:07:27,445 - BrowserEngine - INFO - The test username is "lidl" 
+2019-06-27 17:07:59,388 - BrowserEngine - INFO - Starting Chorme browser 
+2019-06-27 17:08:06,104 - BrowserEngine - INFO - Open url https://pmtest.chinacsci.com/zzxypmf/ 
+2019-06-27 17:08:06,190 - BrowserEngine - INFO - Set implicitly wait 10 seconds 
+2019-06-27 17:09:32,880 - BrowserEngine - INFO - You had select Chrome browser. 
+2019-06-27 17:09:32,883 - BrowserEngine - INFO - The test server url is https://pmtest.chinacsci.com/zzxypmf/ 
+2019-06-27 17:09:32,883 - BrowserEngine - INFO - The test username is "lidl" 
+2019-06-27 17:09:39,968 - BrowserEngine - INFO - Starting Chorme browser 
+2019-06-27 17:09:44,091 - BrowserEngine - INFO - Open url https://pmtest.chinacsci.com/zzxypmf/ 
+2019-06-27 17:09:44,092 - BrowserEngine - INFO - Set implicitly wait 10 seconds 
